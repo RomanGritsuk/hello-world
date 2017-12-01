@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
+Just another repository.
 Hello, just a training of my ckill in editing.
